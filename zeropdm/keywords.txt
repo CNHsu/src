@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For PDMZero
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PMDZero	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+end	KEYWORD2
+configure	KEYWORD2
+getSerializer	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

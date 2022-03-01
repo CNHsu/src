@@ -1,0 +1,2 @@
+#define SECRET_SSID "CN_ARDUINO"
+#define SECRET_PASS "PASS"
